@@ -1,3 +1,3 @@
 # automation
-this is template for automation
-java
+My first Automation project in Java
+Auther - Harsha
